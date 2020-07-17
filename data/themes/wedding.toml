@@ -1,0 +1,18 @@
+# Theme metadata
+name = "wedding"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#ffd4d4"
+
+# Menu
+menu_primary = "#ffd4d4"
+menu_text = "#ffffff"
+menu_text_active = "#cc8f91"
+menu_title = "#b37073"
+
+# Home sections
+home_section_odd = "rgb(253, 253, 253)"
+home_section_even = "rgb(247, 247, 247)"
