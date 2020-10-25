@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Venue Location"
-subtitle = "**Name:** Bendooley Estate<br>**Phone:** 4868 8788<br>**Address:** 3020 Old Hume Hwy, Berrima, NSW, 2577, Australia"
+subtitle = "**Name:** Bendooley Estate<br>**Website**: [bendooleyestate.com.au](https://bendooleyestate.com.au/wedding-spaces/)<br>**Phone:** 4868 8788<br>**Address:** 3020 Old Hume Hwy, Berrima, NSW, 2577, Australia"
 
 # Automatically link email and phone?
 autolink = false
@@ -17,4 +17,3 @@ autolink = false
 #   2: formspree.io
 email_form = 0
 +++
-

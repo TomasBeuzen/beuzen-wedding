@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
 title = "Key Info"
 subtitle = ""
@@ -21,7 +21,13 @@ subtitle = ""
   icon = "gem"
   icon_pack = "fas"
   name = "Wedding"
-  description = "06.08.2021"  
+  description = "06.08.2021"
+
+[[feature]]
+  icon = "map-pin"
+  icon_pack = "fas"
+  name = "Location"
+  description = "Bendooley Estate"
   
 [[feature]]
   icon = "instagram"

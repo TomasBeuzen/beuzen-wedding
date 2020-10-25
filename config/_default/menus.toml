@@ -9,18 +9,18 @@
   weight = 1
 
 [[main]]
-  name = "Gallery"
-  url = "#gallery"
+  name = "Key Info"
+  url = "#info"
   weight = 2
 
 [[main]]
-  name = "Key Info"
-  url = "#info"
+  name = "RSVP"
+  url = "#rsvp"
   weight = 3
 
 [[main]]
-  name = "Save The Date"
-  url = "#rsvp"
+  name = "Gallery"
+  url = "#gallery"
   weight = 4
 
 [[main]]
