@@ -10,12 +10,13 @@ subtitle = ""
 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
-[[feature]]
-  icon = "envelope"
-  icon_pack = "fas"
-  name = "RSVP"
-  description = "06.06.2021"
+# 
+# Change featurette.html line 24 to   <div class="col-12 col-sm-3"> if including this icon
+# [[feature]]
+#   icon = "envelope"
+#   icon_pack = "fas"
+#   name = "RSVP"
+#   description = "06.06.2021"
   
 [[feature]]
   icon = "gem"
