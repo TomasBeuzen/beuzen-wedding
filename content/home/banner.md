@@ -28,31 +28,31 @@ height = "600px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "RSVP"
-  cta_url = "#rsvp"
+  # cta_label = "RSVP"
+  # cta_url = "#rsvp"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = ""
+  title = "06.08.2021"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_img = "hero-2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = ""
+  title = "06.08.2021"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_img = "hero-3.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = ""
+  title = "06.08.2021"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_img = "hero-4.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = ""
+  title = "06.08.2021"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_img = "hero-5.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
