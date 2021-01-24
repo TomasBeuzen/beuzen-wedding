@@ -22,13 +22,13 @@ subtitle = ""
   icon = "gem"
   icon_pack = "fas"
   name = "Wedding"
-  description = "06.08.2021"
+  description = "6 August 2021"
 
 [[feature]]
   icon = "map-pin"
   icon_pack = "fas"
   name = "Location"
-  description = "Bendooley Estate"
+  description = "Bendooley Estate, Berrima"
   
 [[feature]]
   icon = "instagram"
