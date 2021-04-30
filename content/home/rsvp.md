@@ -10,5 +10,3 @@ subtitle = ""
 +++
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSHrOtzQik3I6OWFHzqTkUDEWPjdlgMXufYjDtLFrStf94Kw/viewform?embedded=true" width="85%" height="460" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSHrOtzQik3I6OWFHzqTkUDEWPjdlgMXufYjDtLFrStf94Kw/viewform?embedded=true" width="85%" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
